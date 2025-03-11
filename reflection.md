@@ -21,5 +21,4 @@ Examples:
 **Better Reflection** "I learned how to write while loops and their difference from for loops."   
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
-`--- Reflection Below This Line ---`
-
+This assignment was engaging and provided a clear challenge in integrating pandas with Streamlit for a dynamic data display. Setting up the basic UI and file upload features was pretty easy, but handling the file type detection and dynamic filtering required a lot of time and thought and debugging. This assignment had a good amount of simplicity but also parts that challenegd me a lot. Overall, it was a rewarding experience that deepened my understanding of data manipulation and interactive web apps.
